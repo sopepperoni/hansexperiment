@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hailey — A 10-Year Experiment</title>
+  <title>Hans — A 10-Year Experiment</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet" />
   <style>
@@ -224,7 +224,7 @@
   <!-- HEADER -->
   <header>
     <p class="site-label">A Personal Blog</p>
-    <h1 class="site-title">Hailey</h1>
+    <h1 class="site-title">Hans</h1>
     <p class="site-subtitle">A 10-Year Experiment</p>
   </header>
 
@@ -245,7 +245,7 @@
         I didn't set out to plan 10 years of my life. It started with a single question: what would I do differently if I weren't afraid of being wrong? This is the answer I'm still writing.
       </p>
       <p class="meta">
-        <span>Hailey</span>
+        <span>Hans</span>
         <span>March 26, 2025</span>
         <span>7 min read</span>
       </p>
@@ -295,14 +295,14 @@
     <div class="container">
       <div class="avatar">H</div>
       <p class="about-text">
-        <strong>Hi, I'm Hailey.</strong> This blog is a public record of a private experiment. I'm a university student studying Business Information Systems, learning French, planning a Master's somewhere in Europe, and trying to figure out what kind of person I want to be by the time the decade is up. I write to think — and occasionally to embarrass my future self.
+        <strong>Hi, I'm Hans.</strong> This blog is a public record of a private experiment. I'm a university student studying Business Information Systems, learning French, planning a Master's somewhere in Europe, and trying to figure out what kind of person I want to be by the time the decade is up. I write to think — and occasionally to embarrass my future self.
       </p>
     </div>
   </div>
 
   <!-- FOOTER -->
   <footer>
-    <p>© 2025 Hailey · <a href="#">RSS</a> · <a href="#">Email me</a></p>
+    <p>© 2025 Hans · <a href="#">RSS</a> · <a href="#">Email me</a></p>
   </footer>
 
 </body>
